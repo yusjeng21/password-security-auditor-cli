@@ -1,0 +1,6 @@
+password_history.json
+password_log.txt
+audit_report.txt
+
+__pycache__/
+*.pyc
